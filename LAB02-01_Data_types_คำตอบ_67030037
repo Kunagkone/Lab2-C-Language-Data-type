@@ -45,3 +45,4 @@ https://www.rapidtables.com/code/text/ascii-table.html
 
 จากการศึกษาพบว่า เราสามารถเขียนโปรแกรมเพื่อกำหนดค่าตัวแปรชนิด char ด้วยตนเองได้ เช่น การกำหนด char myChar = 65; โดยจะใช้ เอกสาร ASCII (American Standard Code for Information Interchange): อ้างอิง
 
+5.1 true และ false ถูกแสดงผลเป็นค่าใดบน Serial Monitor?
