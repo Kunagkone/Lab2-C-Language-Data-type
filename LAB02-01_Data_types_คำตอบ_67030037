@@ -46,3 +46,8 @@ https://www.rapidtables.com/code/text/ascii-table.html
 จากการศึกษาพบว่า เราสามารถเขียนโปรแกรมเพื่อกำหนดค่าตัวแปรชนิด char ด้วยตนเองได้ เช่น การกำหนด char myChar = 65; โดยจะใช้ เอกสาร ASCII (American Standard Code for Information Interchange): อ้างอิง
 
 5.1 true และ false ถูกแสดงผลเป็นค่าใดบน Serial Monitor?
+
+ค่าของ true จะถูกแสดงเป็น เลข 1
+ค่าของ false จะถูกแสดงเป็น เลข 0
+ซึ่งเป็นลักษณะการแทนค่าของข้อมูลประเภท Boolean ในระบบคอมพิวเตอร์ ที่สอดคล้องกับตรรกะทางดิจิทัลและการประมวลผลพื้นฐาน
+
