@@ -28,7 +28,11 @@
 
 4.1 bool ใช้กี่ไบต์? true และ false ถูกแสดงผลเป็นค่าใดบน Serial Monitor?
 
-ชนิดข้อมูล bool ใช้พื้นที่ 1 ไบต์ (8 บิต) บน ESP32 
+ตอบ ชนิดข้อมูล bool ใช้พื้นที่ 1 ไบต์ (8 บิต) บน ESP32 แสดงผลผ่าน Serial Monitor:
+
+ค่า true จะถูกแสดงเป็นตัวเลข 1
+
+ค่า false จะถูกแสดงเป็นตัวเลข 0
 
 
 5.1 ชนิดข้อมูลจำนวนเต็มแต่ละชนิด (long, long long, unsigned int, unsigned long, unsigned long long) ใช้กี่ไบต์บน ESP32?
